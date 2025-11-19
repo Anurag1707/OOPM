@@ -36,7 +36,8 @@ int main(){
         a[i]->makeSound();
        }
        
-
+// due to dynmic poli.. we can accomoded object of various type same place 
+// if they belong to the 
        
     
        
